@@ -1,0 +1,107 @@
+a
+{
+    text-decoration: none;
+    color: black;
+    
+}
+
+ul
+{
+    text-decoration: none;
+}
+
+
+body
+{
+    background-color: #ffffff;
+}
+
+.navbar
+{
+    padding: 0px;
+    text-align: right;
+    margin: 0;
+}
+
+.app-icon
+{
+    width: 23px;
+    height: 23px;
+}
+
+.pp
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.google-pic
+{
+    width: 372px;
+    height: 140px;
+}
+
+.search-bar
+{
+    border-radius: 26px;
+    width: 499.6px;
+    height: 34px;
+    margin: 37 0 0;
+    border: 1px solid #dfe1e5;
+}
+.search-bar:hover
+{  
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);   
+}
+
+.search-icon
+{
+    width: 25px;
+    height: 25px;
+    padding: -20px;
+    
+}
+
+.voice-logo
+{
+    width: 25px;
+    height: 25px;
+    margin-left: -40px;
+    margin-bottom: -7px;
+}
+
+.search
+{
+    width: 130.3px;
+    height: 36px;
+    padding: 0 16px;
+    border-radius: 8px;
+}
+
+.luck
+{
+    width: 216.08px;
+    height: 36px;
+    padding: 0 16px;
+    border-radius: 8px;
+}
+
+.footer
+{
+    background-color: #f2f2f2  ;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 20px;
+    padding:15px;
+}
+
+.footer-links
+{
+    
+    display: inline-block;
+    position: relative;
+}
